@@ -8,7 +8,7 @@ import json
 import zhconv
 
 
-# 使用RNN写唐诗
+# 使用transformer写唐诗
 class RnnWriteTangshi():
     def __init__(self,key_path,model_path):
 
