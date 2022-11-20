@@ -1,4 +1,3 @@
-from re import X
 import torch
 import torch.nn as nn
 from net.transformer import Transformer,get_submask
